@@ -5,4 +5,4 @@ Through the use of cryptographic hashing and API queries, the application ensure
 
 Upon analyzing the results, the application provides immediate feedback, enabling users to take proactive steps to safeguard their digital identities. This password checker significantly contributes to online safety by empowering users to make informed decisions about their password choices, ultimately enhancing their cybersecurity posture.
 For more information, please check out the link below.
-http://elham.pythonanywhere.com/
+http://elham.pythonanywhere.com
